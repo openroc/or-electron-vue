@@ -1,2 +1,2 @@
 # or-electron-vue
-an electron template with vue
+An electron template with Vue, inspired by [electron-vue](https://github.com/SimulatedGREG/electron-vue)
