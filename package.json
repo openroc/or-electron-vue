@@ -5,7 +5,8 @@
   "author": "roc <openroc@gmail.com>",
   "scripts": {
     "dev": "node tasks/runner.js dev",
-    "pack": "node tasks/runner.js pack"
+    "pack": "node tasks/runner.js pack",
+    "package": "node tasks/package.js"
   },
   "devDependencies": {
     "async": "^2.1.4",
